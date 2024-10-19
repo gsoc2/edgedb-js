@@ -32,7 +32,7 @@
   "dependencies": {
     "@edgedb/auth-core": "^0.2.1",
     "@remix-run/server-runtime": "^2.9.2",
-    "cookie": "^0.6.0"
+    "cookie": "^0.7.0"
   },
   "exports": {
     "./*": "./dist/*.js"
